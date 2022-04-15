@@ -5,6 +5,7 @@ class calc:
         '''argumentos de entrada: dos listas, cada una con un polinomio
         retorna: la suma de los dos polinomios
         '''
+        
         may = x
         men = y
         sum = [0]*len(may)
