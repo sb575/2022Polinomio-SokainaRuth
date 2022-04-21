@@ -1,7 +1,7 @@
 
 ## Enlaces a SonarCloud y Codacy
 
-Enlace a SonarCloud [Enlace SonarCloud](https://sonarcloud.io/summary/overall?id=sb575_2022Polinomio-SokainaRuth)
+[Enlace a SonarCloud](https://sonarcloud.io/summary/overall?id=sb575_2022Polinomio-SokainaRuth)
 
 Enlace a Codacy []()
 
