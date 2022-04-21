@@ -30,9 +30,9 @@ class calc:
         if len(x) < len(y):
             men = x
             may = [y[i]*(-1) for i in range(len(y))]
-        sum = [men[i] + may[i] for i in range(len(men))]    
+        sumR = [men[i] + may[i] for i in range(len(men))]    
         aux = [may[i] for i in range(len(men),len(may))]
-        res = sum + aux
+        res = sumR + aux
 
         print("--------------------------------------------------------------")
         print("El resultado de restar ", str(x), "-", str(y), " es: ", str(res))
