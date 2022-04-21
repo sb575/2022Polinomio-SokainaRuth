@@ -29,5 +29,6 @@ Ingrese los elementos del segundo polinomio: 2,2
 
 ## Enlaces a SonarCloud y Codacy
 
-Enlace a SonarCloud <https://sonarcloud.io/summary/overall?id=sb575_2022Polinomio-SokainaRuth>.
-Enlace a Codacy <>
+Enlace a SonarCloud [Enlace SonarCloud](https://sonarcloud.io/summary/overall?id=sb575_2022Polinomio-SokainaRuth)
+
+Enlace a Codacy []()
