@@ -26,3 +26,7 @@ Ingrese el número de elementos del primer polinomio: 3
 Ingresa el número de elementos del segundo polinomio: 2
 Ingrese los elementos del primer polinomio: 1,2,3
 Ingrese los elementos del segundo polinomio: 2,2
+
+## Enlace a SonarCloud
+
+(Enlace a SonarCloud)[https://sonarcloud.io/summary/overall?id=sb575_2022Polinomio-SokainaRuth]
