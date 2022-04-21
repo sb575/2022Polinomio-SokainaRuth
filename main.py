@@ -11,7 +11,10 @@ def menu():
     print("*  0. Salir                           *")
     print("***************************************")
     
-    opcion = input("Opcion: ")
+    OPCION = "Opcion: "
+
+    
+    opcion = input(OPCION)
 
 
     try:
@@ -19,10 +22,10 @@ def menu():
             return(int(opcion))
         else:
             print("Opcion incorrecta, por favor ingrese una opcion (1 para sumar y 2 para restar): ")
-            return(int(input("Opcion: ")))
-    except:
+            return(int(input(OPCION)))
+    except RuntimeError:
         print("Opcion incorrecta, por favor ingrese una opcion (1 para sumar y 2 para restar): ")
-        return(int(input("Opcion: ")))
+        return(int(input(OPCION)))
 
 while(True):
     opcion = menu()
