@@ -1,3 +1,10 @@
+
+## Enlaces a SonarCloud y Codacy
+
+Enlace a SonarCloud [Enlace SonarCloud](https://sonarcloud.io/summary/overall?id=sb575_2022Polinomio-SokainaRuth)
+
+Enlace a Codacy []()
+
 # Operaciones entre polinomios
 
 _En este código, se crea una calculadora para dos polinomios, con suma y resta entre dos polinomios_
@@ -27,8 +34,4 @@ Ingresa el número de elementos del segundo polinomio: 2
 Ingrese los elementos del primer polinomio: 1,2,3
 Ingrese los elementos del segundo polinomio: 2,2
 
-## Enlaces a SonarCloud y Codacy
 
-Enlace a SonarCloud [Enlace SonarCloud](https://sonarcloud.io/summary/overall?id=sb575_2022Polinomio-SokainaRuth)
-
-Enlace a Codacy []()
