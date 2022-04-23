@@ -2,6 +2,7 @@
 ## Enlaces a SonarCloud y Codacy
 
 [Enlace a SonarCloud](https://sonarcloud.io/summary/overall?id=sb575_2022Polinomio-SokainaRuth)
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=sb575_2022Polinomio-SokainaRuth)
 
 [Enlace a Codacy](https://www.codacy.com/gh/rk400/2022Polinomio-SokainaRuth/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rk400/2022Polinomio-SokainaRuth&amp;utm_campaign=Badge_Grade) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/48c1306edff54fbe9d881f618a6ad2a2)](https://www.codacy.com/gh/rk400/2022Polinomio-SokainaRuth/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rk400/2022Polinomio-SokainaRuth&amp;utm_campaign=Badge_Grade)
 
