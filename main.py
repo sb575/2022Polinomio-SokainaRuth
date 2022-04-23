@@ -13,9 +13,7 @@ def menu():
     
     OPCION = "Opcion: "
 
-    
     opcion = input(OPCION)
-
 
     try:
         if int(opcion) >= 0 and int(opcion) <= 2:
